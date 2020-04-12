@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xliff version="2.0" xmlns="urn:oasis:names:tc:xliff:document:2.0" srcLang="en-US">
+  <file original="ng.template" id="ngi18n">
+    <unit id="00001">
+      <notes>
+        <note category="location">src/app/app.component.html:2</note>
+      </notes>
+      <segment>
+        <source>Home</source>
+        <target>Início</target>
+      </segment>
+    </unit>
+    <unit id="00002">
+      <notes>
+        <note category="location">src/app/app.component.html:3</note>
+      </notes>
+      <segment>
+        <source>Product List</source>
+        <target>Lista de Produtos</target>
+      </segment>
+    </unit>
+    <unit id="00003">
+      <notes>
+        <note category="location">src/app/home/home.component.html:1</note>
+      </notes>
+      <segment>
+        <source>This is my home component</source>
+        <target>Este é meu componente inicial</target>
+      </segment>
+    </unit>
+    <unit id="00004">
+      <notes>
+        <note category="location">src/app/products/product-list/product-list.component.html:1</note>
+      </notes>
+      <segment>
+        <source>This is my product list component</source>
+        <target>Este é meu componente de lista de produtos</target>
+      </segment>
+    </unit>
+    <unit id="00005">
+      <notes>
+        <note category="location">src/app/products/product-list/product-list.component.html:6</note>
+      </notes>
+      <segment>
+        <source>Name</source>
+        <target>Nome</target>
+      </segment>
+    </unit>
+    <unit id="00006">
+      <notes>
+        <note category="location">src/app/products/product-list/product-list.component.html:7</note>
+      </notes>
+      <segment>
+        <source>Price</source>
+        <target>Preço</target>
+      </segment>
+    </unit>
+  </file>
+</xliff>
